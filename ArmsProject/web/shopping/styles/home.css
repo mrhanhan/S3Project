@@ -1,0 +1,12 @@
+
+.totas{
+    color: #000000;
+    background-color: #019ae2;
+    border-radius: 5px;
+    font-size: 14px;
+    text-align: center;
+    overflow:  hidden;
+    border: 1px solid #01adff;
+    box-shadow: 0px 0px 5px gray;
+    font-weight: bold;
+}

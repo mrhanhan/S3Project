@@ -1,0 +1,158 @@
+.btn-group{
+    margin: 5px auto;
+    text-align: center;
+}
+.btn-group * {
+    text-decoration:none;
+}
+.btn-group .btn-submit{
+    font-size: 12px;
+    text-align: center;
+    display: inline-block;
+    min-width: 60px;
+    height: 30px;
+    color: #FFF;
+    line-height: 30px;
+    border: 1px solid black;
+    background-color:#208ED3 ;
+    box-shadow: 0px 0px 2px black;
+    transition: all 200ms;
+}
+.btn-group .btn-submit:hover{
+    border: 1px solid #208ed3;
+    box-shadow: 0px 0px 0px gray;
+}
+.btn-group .btn-close{
+    font-size: 12px;
+    text-align: center;
+    display: inline-block;
+    min-width: 60px;
+    height: 30px;
+    color: #FFF;
+    line-height: 30px;
+    border: 1px solid black;
+    background-color: #923b32;
+    box-shadow: 0px 0px 2px #000000;
+    transition: all 200ms;
+}
+.btn-group .btn-close:hover{
+    border: 1px solid #923b32;
+    box-shadow: 0px 0px 0px gray;
+}
+.btn-group .btn{
+    font-size: 12px;
+    text-align: center;
+    display: inline-block;
+    min-width: 60px;
+    height: 30px;
+    color: #FFF;
+    line-height: 30px;
+    border: 1px solid black;
+    background-color:#4b4f51 ;
+    box-shadow: 0px 0px 2px black;
+    transition: all 200ms;
+}
+.btn-group .btn:hover{
+    border: 1px solid #4b4f51;
+    box-shadow: 0px 0px 0px gray;
+}
+.btn-group *:hover{
+    border-radius: 5px;
+}
+.btn-other{
+    font-size: 12px;
+    text-align: center;
+    display: inline-block;
+    width: 60px;
+    height: 30px;
+    color: #FFF;
+    line-height: 30px;
+    border: 1px solid black;
+    background-color: #074c51;
+    box-shadow: 0px 0px 2px black;
+    transition: all 200ms;
+}
+.btn-cancl{
+    font-size: 12px;
+    text-align: center;
+    display: inline-block;
+    width: 60px;
+    height: 30px;
+    color: #FFF;
+    line-height: 30px;
+    border: 1px solid black;
+    background-color:#4b4f51 ;
+    box-shadow: 0px 0px 2px black;
+    transition: all 200ms;
+}
+.btn-ok{
+    font-size: 12px;
+    text-align: center;
+    display: inline-block;
+    width: 60px;
+    height: 30px;
+    color: #FFF;
+    line-height: 30px;
+    border: 1px solid black;
+    background-color:#208ED3 ;
+    box-shadow: 0px 0px 2px black;
+    transition: all 200ms;
+}
+.btn-other:hover.btn-ok:hover,btn-cancl:hover
+{
+    box-shadow: 0px 0px 5px #a2a2a2;
+    border-radius: 5px;
+}
+.input,input:-webkit-autofill{
+    background-color: transparent;
+    color: white;
+    border: none;
+    border-bottom: 1px solid white;
+    padding: 3px 6px;
+    width: 100%;
+    display: inline-block;
+    transition: all 200ms;
+    margin: 5px 0px;
+}
+.input:hover{
+    border-bottom: 1px solid #208ED3;
+}
+.input:focus{
+    border: none;
+    outline-offset: 0px;
+    border-bottom: 1px solid #208ED3;
+    border-radius: 6px;
+}
+.textarea{
+    background-color: inherit;
+    color: white;
+    border: none;
+   border-bottom: 1px solid white;
+    padding: 3px 6px;
+    width: 100%;
+    display: inline-block;
+    transition: all 200ms;
+    resize: none;
+}
+.error-input{
+    border-color: red;
+}
+.error{
+    color:red;
+    font-size: 10pt;
+}
+.input-gropu input{
+    border: 1px solid rgba(51, 51, 51, 0.34);
+    margin: 5px;
+    padding: 2px 5px;
+}
+.input-gropu .btn{
+    border:1px solid black;
+    background-color: #e3eaec;
+    color: black;
+    transition: all 200ms;
+}
+.input-gropu .btn:hover{
+    border:1px solid #e3eaec;
+    color: black;
+}

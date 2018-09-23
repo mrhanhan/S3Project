@@ -1,0 +1,32 @@
+*{
+    font-family: "华文宋体";
+}
+html,body{
+    margin: 0px;
+    padding: 0px;
+    width:100%;
+
+    background-color: white;
+    background-size: 100% 100%;
+    color:black ;
+}
+.dialog{
+    display: none;
+}
+.totas{
+    color:white;
+    background-color: #2a2a2a;
+    border-radius: 5px;
+    font-size: 14px;
+    text-align: center;
+    overflow:  hidden;
+    border: 1px solid wheat;
+}
+
+.dialog-body{
+    border: 1px solid white;
+    padding: 20px 10px;
+    border-radius: 5px;
+    color:white;
+    background-color: #3b3e40;
+}

@@ -1,0 +1,16 @@
+.header_area .favourite-area a img, .header_area .user-login-info a img, .header_area .cart-area a img, .right-side-cart-area .cart-button a img{
+    margin-top: 30px;
+
+}
+.goodsImg {
+    height: 70%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-color: #EEEEEEA5;
+    border: 1px solid #a6a6a6;
+
+}
+.catagories-menu ul li  a{
+    color: gray;
+}

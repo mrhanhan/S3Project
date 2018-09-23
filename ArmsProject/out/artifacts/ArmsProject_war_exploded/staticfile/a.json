@@ -1,0 +1,408 @@
+{
+  "Hot": [
+    {
+      "Good": {
+        "goods": {
+          "tnum": "03",
+          "gstate": "上架",
+          "gdiscount": 99.0,
+          "gisdiscount": "是",
+          "gprice": 4500,
+          "gimg": "0b49a1950b0c4b7399c7b2b6394ab63f.png",
+          "gisnew": "是",
+          "gnum": "G201809100067",
+          "gremark": "连狙，是介于步枪和狙击枪的一种中远程武器.",
+          "id": "0b49a1950b0c4b7399c7b2b6394ab63f",
+          "gname": "MINI14",
+          "gisrecom": "是",
+          "serialVersionUID": 1
+        },
+        "type": {
+          "tname": "射手步枪",
+          "tremark": "快准狠",
+          "tcode": "000000",
+          "serialVersionUID": 1,
+          "id": "80c861c0ac2d11e8a4730021ccb857a6",
+          "tnum": "03"
+        }
+      }
+    },
+    {
+      "Good": {
+        "goods": {
+          "tnum": "T201809100001",
+          "gdiscount": 80.0,
+          "id": "e9efedf291314ac89167ea5f9424eb40",
+          "gname": "XT-86A1式榴弹炮",
+          "gnum": "G201809100100",
+          "gremark": "该型榴弹炮用39倍口径长身管代替原23倍口径长身管，使射程从14.6km增至32.4km。该炮还增加了液压系统，可驱动炮身旋转，大架开并只需4人即可操纵。",
+          "serialVersionUID": 1,
+          "gprice": 8888,
+          "gimg": "e9efedf291314ac89167ea5f9424eb40.jpg",
+          "gstate": "上架",
+          "gisnew": "是",
+          "gisdiscount": "是",
+          "gisrecom": "是"
+        },
+        "type": {
+          "serialVersionUID": 1,
+          "tnum": "T201809100001",
+          "tcode": "T201809100001",
+          "tremark": "射击火器",
+          "tname": "火炮",
+          "id": "0af52ca2b0304b3798ba3e1c34e7d06c"
+        }
+      }
+    },
+    {
+      "Good": {
+        "type": {
+          "id": "d13bda9751844d6eb842d81e537f9b80",
+          "tnum": "T201809070010",
+          "serialVersionUID": 1,
+          "tname": "强击机",
+          "tremark": "低空、超低空突击敌战术",
+          "tcode": "T201809070010"
+        },
+        "goods": {
+          "gnum": "G201809100144",
+          "gdiscount": 99.0,
+          "gname": "A-10",
+          "serialVersionUID": 1,
+          "tnum": "T201809070010",
+          "gisdiscount": "是",
+          "gprice": 1200000,
+          "gisnew": "是",
+          "gisrecom": "是",
+          "gstate": "上架",
+          "gimg": "91d531af34714036b3625a0aba1a1120.jpg",
+          "id": "91d531af34714036b3625a0aba1a1120",
+          "gremark": "美国研发 低空作战 超低空作战 "
+        }
+      }
+    },
+    {
+      "Good": {
+        "type": {
+          "serialVersionUID": 1,
+          "tremark": "快准狠",
+          "tname": "射手步枪",
+          "tcode": "000000",
+          "id": "80c861c0ac2d11e8a4730021ccb857a6",
+          "tnum": "03"
+        },
+        "goods": {
+          "gprice": 8000,
+          "gisnew": "是",
+          "gisrecom": "是",
+          "gnum": "G201809100066",
+          "gimg": "6c9844d5829e4ecf84bde2aff49218c4.jpg",
+          "gname": "SKS",
+          "gisdiscount": "是",
+          "gremark": "使用7.62mm子弹 中远距离作战，射速快。",
+          "gstate": "上架",
+          "gdiscount": 99.0,
+          "tnum": "03",
+          "serialVersionUID": 1,
+          "id": "6c9844d5829e4ecf84bde2aff49218c4"
+        }
+      }
+    },
+    {
+      "Good": {
+        "type": {
+          "tnum": "T201809070009",
+          "serialVersionUID": 1,
+          "tname": "运输机",
+          "tremark": "可高速机动 深入敌军作战",
+          "id": "069bf7ac81e742f6b80431468e353d89",
+          "tcode": "T201809070009"
+        },
+        "goods": {
+          "serialVersionUID": 1,
+          "gprice": 8000000,
+          "gstate": "上架",
+          "gisdiscount": "是",
+          "gnum": "G201809100143",
+          "tnum": "T201809070009",
+          "gisnew": "是",
+          "gisrecom": "是",
+          "gname": "乌克兰安-255",
+          "gremark": "世界最大运输机 最大载货量250吨",
+          "gdiscount": 99.0,
+          "gimg": "b94a528b13f0480bb75c942ec5a7aa47.jpg",
+          "id": "b94a528b13f0480bb75c942ec5a7aa47"
+        }
+      }
+    },
+    {
+      "Good": {
+        "type": {
+          "id": "c16aa12c4fc54285ba6a7a3704c3aa8c",
+          "serialVersionUID": 1,
+          "tname": "航母",
+          "tremark": "航空母舰",
+          "tnum": "T201809070011",
+          "tcode": "T201809070011"
+        },
+        "goods": {
+          "gprice": 9999999,
+          "serialVersionUID": 1,
+          "gimg": "b5929f73a8804052965c79b161662f95.jpg",
+          "gdiscount": 99.0,
+          "gremark": "辽宁号航空母舰（代号：001型航空母舰，舷号：16，简称：辽宁舰），是中国人民解放军海军隶下的一艘可以搭载固定翼飞机的航空母舰，也是中国第一艘服役的航空母舰。",
+          "gstate": "上架",
+          "gisnew": "是",
+          "gisrecom": "是",
+          "id": "b5929f73a8804052965c79b161662f95",
+          "gname": "辽宁号航空母舰",
+          "gisdiscount": "是",
+          "gnum": "G201809100025",
+          "tnum": "T201809070011"
+        }
+      }
+    },
+    {
+      "Good": {
+        "goods": {
+          "gisrecom": "是",
+          "gisdiscount": "是",
+          "gremark": "M60A3是美国M60“巴顿”系列中的终极改进型主战坦克，号称“终极巴顿”，1971年开始研制，其研制代号为M60A1E3。它安装了可靠性得到提高的发动机和被动观瞄仪，1978年又做了安装新的测距仪、弹道计算机、M240高射机枪和M239烟幕弹发射器等4项",
+          "gstate": "上架",
+          "id": "ddcac3b8a95443b892fc1692a3732c34",
+          "gimg": "ddcac3b8a95443b892fc1692a3732c34.jpg",
+          "gisnew": "是",
+          "serialVersionUID": 1,
+          "gdiscount": 90.0,
+          "gnum": "G201809100069",
+          "gprice": 129999,
+          "tnum": "T201809070015",
+          "gname": "M60A3主战坦克"
+        },
+        "type": {
+          "tcode": "T201809070015",
+          "id": "072991aac5d04d62852d789d975b8a9f",
+          "tnum": "T201809070015",
+          "tremark": "陆军作战武器杀伤力大",
+          "serialVersionUID": 1,
+          "tname": "坦克"
+        }
+      }
+    },
+    {
+      "Good": {
+        "type": {
+          "tname": "舰载机",
+          "serialVersionUID": 1,
+          "tnum": "T201809070006",
+          "tcode": "T201809070006",
+          "tremark": "航空母舰的主要作战武器",
+          "id": "338462bf8790412a9556778199b18387"
+        },
+        "goods": {
+          "gisrecom": "是",
+          "gnum": "G201809100102",
+          "gremark": "F/A-18“大黄蜂”战斗机是美国海军一型单座/双座双发后掠翼超音速喷气式多用途舰载战斗机  。",
+          "gstate": "上架",
+          "id": "37da0878d6164dbda96812e7495a5797",
+          "gisnew": "是",
+          "serialVersionUID": 1,
+          "gimg": "37da0878d6164dbda96812e7495a5797.jpg",
+          "tnum": "T201809070006",
+          "gname": "F/A-18“大黄蜂”战斗机",
+          "gdiscount": 99.0,
+          "gisdiscount": "是",
+          "gprice": 1000000
+        }
+      }
+    },
+    {
+      "Good": {
+        "type": {
+          "id": "75b34a4cac2d11e8a4730021ccb857a6",
+          "tname": "突击步枪",
+          "serialVersionUID": 1,
+          "tnum": "01",
+          "tcode": "000000",
+          "tremark": "有效射程300－400米 特点是射速较高、射击稳定、后座力适中、枪身短小轻便。"
+        },
+        "goods": {
+          "tnum": "01",
+          "serialVersionUID": 1,
+          "gdiscount": 99.0,
+          "gstate": "上架",
+          "gname": "M4",
+          "gisnew": "是",
+          "gisdiscount": "是",
+          "gnum": "G201809100024",
+          "gremark": "使用5.56mm子弹，中近距离作战，有效射程400米",
+          "gprice": 2800,
+          "gimg": "42581ca9c14c4065919aea2056671c38.png",
+          "gisrecom": "是",
+          "id": "42581ca9c14c4065919aea2056671c38"
+        }
+      }
+    },
+    {
+      "Good": {
+        "type": {
+          "serialVersionUID": 1,
+          "tcode": "T201809070012",
+          "id": "420884265ae04edba4a3b2f273e416b2",
+          "tnum": "T201809070012",
+          "tname": "战略舰",
+          "tremark": "军用大型战舰"
+        },
+        "goods": {
+          "gisdiscount": "是",
+          "gisrecom": "是",
+          "tnum": "T201809070012",
+          "gisnew": "是",
+          "gprice": 9000000,
+          "gstate": "上架",
+          "gdiscount": 99.0,
+          "gimg": "bac824db3f334c3583de40b29c2a5073.jpg",
+          "gname": "皇家橡树号战列舰",
+          "serialVersionUID": 1,
+          "gnum": "G201809100068",
+          "gremark": "皇家橡树号战列舰（英文：HMS Royal Oak，舷号08），是隶属于英国皇家海军的战列舰，为君权级（又称复仇级）战列舰的五号舰。该战列舰是英军第八艘以皇家橡树命名的军舰。",
+          "id": "bac824db3f334c3583de40b29c2a5073"
+        }
+      }
+    },
+    {
+      "Good": {
+        "goods": {
+          "gisdiscount": "是",
+          "gisnew": "是",
+          "gnum": "G201809100101",
+          "gprice": 1000,
+          "serialVersionUID": 1,
+          "gisrecom": "是",
+          "gremark": "使用9MM子弹近战必备武器",
+          "gname": "P92",
+          "gstate": "上架",
+          "tnum": "T201809060001",
+          "gdiscount": 99.0,
+          "gimg": "a60c31783dc64c9180dd2540f28959a9.png",
+          "id": "a60c31783dc64c9180dd2540f28959a9"
+        },
+        "type": {
+          "serialVersionUID": 1,
+          "id": "e8605d36e4ad414ba26630ddc6aa9bcd",
+          "tname": "手枪",
+          "tnum": "T201809060001",
+          "tcode": "T201809060001",
+          "tremark": "手枪单手握持瞄准射击的短枪管武器，特种兵随身携带，50米近程"
+        }
+      }
+    },
+    {
+      "Good": {
+        "type": {
+          "id": "a980e85433ef4f90bd9916e437e79afa",
+          "tname": "近战",
+          "tnum": "T201809070001",
+          "serialVersionUID": 1,
+          "tremark": "平底锅 刺刀 类武器",
+          "tcode": "T201809070001"
+        },
+        "goods": {
+          "gisnew": "是",
+          "gisrecom": "是",
+          "id": "f0120388ee4c4357b35b4e7d0e3e8a0c",
+          "gimg": "f0120388ee4c4357b35b4e7d0e3e8a0c.jpg",
+          "gname": "战刀",
+          "gprice": 500,
+          "gdiscount": 99.0,
+          "gisdiscount": "是",
+          "serialVersionUID": 1,
+          "gnum": "G201809100140",
+          "gremark": "一种刀身微弯供劈刺用的长刀，也称马刀。长度约一米，骑兵在冲锋时多用之。",
+          "tnum": "T201809070001",
+          "gstate": "上架"
+        }
+      }
+    },
+    {
+      "Good": {
+        "type": {
+          "tnum": "T201809070014",
+          "id": "9c3be56fce2c4bc4bc9adc2a76ffb8b5",
+          "tcode": "T201809070014",
+          "serialVersionUID": 1,
+          "tname": "鱼雷",
+          "tremark": "水下作战武器"
+        },
+        "goods": {
+          "gdiscount": 99.0,
+          "id": "f54d0b8142764a5da22d58ba4b0fc145",
+          "gname": "超空泡鱼雷",
+          "gisrecom": "是",
+          "gisdiscount": "是",
+          "gprice": 100000,
+          "gnum": "G201809100142",
+          "gremark": "超空泡鱼雷是一种能够实现在水中高速航行的武器，是前苏联海军研制成功的一种超空泡武器。",
+          "gstate": "上架",
+          "gisnew": "是",
+          "tnum": "T201809070014",
+          "serialVersionUID": 1,
+          "gimg": "f54d0b8142764a5da22d58ba4b0fc145.jpg"
+        }
+      }
+    },
+    {
+      "Good": {
+        "goods": {
+          "tnum": "T201809070018",
+          "gname": "x波段雷达",
+          "gdiscount": 90.0,
+          "gisdiscount": "是",
+          "gisrecom": "是",
+          "gimg": "274fe96d8b86418f9e7dd8e820676806.jpg",
+          "gnum": "G201809100141",
+          "gisnew": "是",
+          "serialVersionUID": 1,
+          "gstate": "上架",
+          "id": "274fe96d8b86418f9e7dd8e820676806",
+          "gremark": "X波段雷达是对火控，目标跟踪雷达的统称，其波长在3厘米以下。XBR有上下左右各50度的视角，并且该雷达能够360度旋转侦查各个方向的目标。",
+          "gprice": 12999
+        },
+        "type": {
+          "id": "7d90c2861d3941989fa615022be2c3c1",
+          "tname": "雷达",
+          "tcode": "T201809070018",
+          "serialVersionUID": 1,
+          "tnum": "T201809070018",
+          "tremark": "无线电探测"
+        }
+      }
+    },
+    {
+      "Good": {
+        "goods": {
+          "id": "61ee97b24fed495985b06cb378b59787",
+          "gimg": "61ee97b24fed495985b06cb378b59787.jpg",
+          "gstate": "上架",
+          "serialVersionUID": 1,
+          "gprice": 288888,
+          "tnum": "T201809070017",
+          "gdiscount": 80.0,
+          "gisnew": "是",
+          "gremark": "东风-11是一种采用固态燃料的公路机动式弹道导弹，可安装常规弹头或核弹头。东风-11采用两级助推方式，射程较短，约为300公里。",
+          "gnum": "G201809100108",
+          "gisdiscount": "是",
+          "gisrecom": "是"
+
+          ,"gname":"东风-11"},"type":{"tnum":"T201809070017","tname":"导弹","id":"5194b21d83df421283c07e41dbc381cc","
+          tremark
+          ":"
+          无人驾驶武器
+          超远距离作战
+          ","
+          serialVersionUID
+          ":1,"
+          tcode
+          ":"
+          T201809070017
+          "}}}]}
